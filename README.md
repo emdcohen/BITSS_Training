@@ -6,3 +6,5 @@ Sample repository
 ### GitHub introductory training
 
 This line was changed in the browser. 
+
+This line was added in the test branch. 
