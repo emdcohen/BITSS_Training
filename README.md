@@ -11,5 +11,6 @@ This line was added in the test branch.
 
 Here is another edit that I am adding to the test branch. 
 
-This is the conflict information added in the master branch.
+
+I feel like adding this information.
 
